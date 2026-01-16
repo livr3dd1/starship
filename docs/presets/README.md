@@ -32,6 +32,8 @@ in brackets instead of using the default Starship wording ("via", "on", etc.).
 
 This preset changes the symbols for each module into plain text. Great if you
 don't have access to Unicode.
++
+hi how are you
 
 [![Screenshot of Plain Text Symbols preset](/presets/img/plain-text-symbols.png "Click to view Plain Text Symbols preset")](./plain-text)
 
@@ -82,4 +84,4 @@ This is a pseudo minimalist preset inspired by the [geometry](https://github.com
 
 This preset is a minimally modified version of [Gruvbox Rainbow](./gruvbox-rainbow.md) using the [Catppuccin](https://github.com/catppuccin/catppuccin) theme palette.
 
-[![Screenshot of Catppuccin Powerline preset](/presets/img/catppuccin-powerline.png "Click to view Catppuccin Powerline preset")](./catppuccin-powerline)
+[![Screenshot of Catppuccin Powerline preset](/presets/img/catppuccin-powerline.png "Click to view Catppuccin Powerline preset")](./catppuccin-powerline
